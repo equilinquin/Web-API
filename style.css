@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+h1 {
+    margin-left: 600px;
+}
+p {
+    margin-left: 500px;
+    width: 400px;
+    text-align: center;
+}
+#start {
+    margin-left:650px;
+}
+#timer {
+    position: absolute;
+    top: 0px;
+    right: 29px;
+}
+#count {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}
+.content {
+    position: relative;
+    margin-top: 200px;
+    margin-left: 0px
+}
+.display {
+    position: absolute;
+    display: none;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.results {
+    display: none;
+    text-align: center;
+    margin-top: 200px;
+}
+button {
+    padding: 5px;
+}
