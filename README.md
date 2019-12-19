@@ -16,3 +16,5 @@ Some issue with the code:
     -The View High Score button does not work (Only can view high score at end of game).
 
 This assignment helped me understand the basis and structure of native javascript and showed an introduction of jQuery.
+
+Link to deployable site: https://equilinquin.github.io/Web-API/
