@@ -37,5 +37,3 @@ This quiz was made for a homework assignment.  The code starts off with the firs
 ## Image of deployed page
 
 ![Sample Image](./images/Coding-quiz.png)
-
-Link to deployable site: https://equilinquin.github.io/Web-API/
